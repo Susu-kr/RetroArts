@@ -84,7 +84,7 @@
 
 <center>
 
-![Ticket3](https://zen-marketing-documentation.s3.amazonaws.com/docs/ko/gsg_submit_button.png)
+![Ticket3](https://github.com/Susu-kr/RetroArts/blob/main/gsg_submit_button.png)
 
 </center>
 
