@@ -84,7 +84,7 @@
 
 <center>
 
-![TicketLife](https://zen-marketing-documentation.s3.amazonaws.com/docs/ko/gsg_submit_button.png)
+![TicketLife](https://zen-marketing-documentation.s3.amazonaws.com/docs/ko/gsg_submit_button.png) 
 
 </center>
 
