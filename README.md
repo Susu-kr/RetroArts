@@ -86,7 +86,7 @@
 
 ---
 
-![Ticket3](https://zen-marketing-documentation.s3.amazonaws.com/docs/ko/gsg_submit_button.png)
+![Ticket3](https://github.com/Susu-kr/Work/blob/main/gsg_submit_button.png)
 
 - 신규 : 고객으로 부터 요청이 처음 도착
 
@@ -210,7 +210,7 @@ Zendesk Support에서는 상담원을 그룹으로 구성하며 티켓을 상담
 
 Zendesk의 계정을 만든 사람은 계정 소유자이며, 최고 관리자 역할로 한 명 또는 여러 명의 관리자를 지정할 수 있다.
 
-![View11](https://zen-marketing-documentation.s3.amazonaws.com/docs/ko/gsg_user_roles.png)
+![View11](https://github.com/Susu-kr/Work/blob/main/gsg_user_roles.png)
 
 </br>
 
@@ -260,7 +260,7 @@ Zendesk의 계정을 만든 사람은 계정 소유자이며, 최고 관리자 �
 
 </br>
 
-![case](https://zen-marketing-documentation.s3.amazonaws.com/docs/ko/gsg_type_select.png)
+![case](https://github.com/Susu-kr/Work/blob/main/gsg_type_select.png)
 
 - 질문 : 요청자가 제기한 사항이 해결이 아닌 질문인 경우
   
@@ -292,7 +292,7 @@ Zendesk의 계정을 만든 사람은 계정 소유자이며, 최고 관리자 �
 
 </br>
 
-![priority](https://zen-marketing-documentation.s3.amazonaws.com/docs/ko/gsg_priority_select.png)
+![priority](https://github.com/Susu-kr/Work/blob/main/gsg_priority_select.png)
 
 티켓 우선 순위는 각 티켓의 긴급도를 나타내며, 티켓을 관리하기 위해 Zendesk Support에 설정한 규칙에 사용될 수 있다.
 
