@@ -5,6 +5,9 @@
 ### 2. Unity 2021.3.6f1 버전을 설치(안드로이드, ios 모듈 추가)
 ![image](https://user-images.githubusercontent.com/57660360/178693125-9218e138-a41a-4928-9466-55be6826aff9.png)
 
+#### [Tilemap 기초](https://hiyotama.hatenablog.com/entry/2021/03/10/221323)
+#### 참고 - 일본어, 1편부터 차근차근
+
 ### 3. Create New Project -> 2D -> Create
 ![image](https://user-images.githubusercontent.com/57660360/178693368-f2c6a040-8784-4942-9978-b6149a4f53c8.png)
 
