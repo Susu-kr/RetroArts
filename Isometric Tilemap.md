@@ -8,7 +8,7 @@
 ### 3. Create New Project -> 2D -> Create
 ![image](https://user-images.githubusercontent.com/57660360/178693368-f2c6a040-8784-4942-9978-b6149a4f53c8.png)
 
-### 4. 패키지 매니저에서 2D Tilemap 관련 패키지 다운로드
+### 4. Window -> Package Manager -> 2D Tilemap 관련 패키지 다운로드 (Package : Unity Registry로 변경)
 ![image](https://user-images.githubusercontent.com/57660360/178693753-8be22dd1-545f-458c-8927-819bfe73375e.png)
 
 ### 5. [Edit -> Project Settings -> Graphics -> Camera Settings 수정](https://blog.unity.com/technology/isometric-2d-environments-with-tilemap)
