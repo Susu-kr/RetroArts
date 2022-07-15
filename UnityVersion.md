@@ -40,7 +40,6 @@
 #### 현재 프로젝트의 세팅과 관련하여 Unity 2021.3 LTS 버전은 OpenGLES 2.0을 지원 하지 않으며, Android API, SDK 및 NDK의 버전 업과 iOS 12+ 타겟이므로 적합하지 않음
 #### 그에 반해 Unity 2020.3 LTS 버전은 설정된 조건들을 모두 수용할 수 있으므로 2020.3 LTS 버전으로 업그레이드 하는 것이 더 안정적
 
-#### [Android API 9(Pie) 지원 기기](https://namu.wiki/w/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%8C%8C%EC%9D%B4#s-4.1.1)
-#### [Android API 10 지원 기기](https://namu.wiki/w/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%2010)
-#### [iOS 11+ 지원 기기](https://support.apple.com/ko-kr/HT209574)
+#### [Android API 9(Pie) 지원 기기](https://namu.wiki/w/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%20%ED%8C%8C%EC%9D%B4#s-4.1.1) VS [Android API 10 지원 기기](https://namu.wiki/w/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%2010)
+#### [iOS 10+ 지원 기기](https://support.apple.com/ko-kr/HT209547) VS [iOS 11+ 지원 기기](https://support.apple.com/ko-kr/HT209574)
 
