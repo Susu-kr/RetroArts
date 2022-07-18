@@ -33,9 +33,9 @@
 ---
 |Unity Version| Android | iOS |
 |---|---|---|
-|[2019.4](https://docs.unity3d.com/kr/2019.4/Manual/system-requirements.html)|**Android 4.4 (API 19)+ **, ARMv7(32bit), ARM64, **OpenGL ES 2.0 +, 3.0 +, Vulkan**, 하드웨어가 Android OS를 네이티브로 실행해야함 컨테이너 또는 에뮬레이터 내 Android는 지원xAndroid SDK(9/ API 28), Android NDK(r19)|**iOS 10+, A6/A6X SoC+, Metal, OpenGL ES 2.0, 3.0(지원 중단)**, macOS 10.12.6 및 Xcode 9.4 이상의 Mac 컴퓨터가 필요함|
-|[2020.3](https://docs.unity3d.com/kr/2020.3/Manual/system-requirements.html)|**Android 4.4 (API 19)+ **, ARMv7, ARM64, **OpenGL ES 2.0 +, 3.0 +, Vulkan**, 하드웨어가 Android OS를 네이티브로 실행해야함 컨테이너 또는 에뮬레이터 내 Android는 지원x **개발용 Android SDK(10/API 29)**, Android NDK(r19)|**iOS 11+, A7 SoC Metal**, macOS 10.12.6 및 Xcode 9.4 이상의 Mac 컴퓨터가 필요함|
-|[2021.3](https://docs.unity3d.com/kr/2021.3/Manual/system-requirements.html)|<span style="color:red">** Android 5.1 (API 22)+ **</span> , ARMv7(32bit), ARM64, <span style="color:red">**OpenGL ES 3.0 +, Vulkan**</span>, 하드웨어가 Android OS를 네이티브로 실행해야함, **Chrome OS 용 Android 외**에 컨테이너 또는 에뮬레이터 내 Android는 지원x, <span style="color:red">**Android SDK(10/ API 29), Android NDK(r21d)**</span>|**iOS 12+, A7 SoC+**, Metal|
+|[2019.4](https://docs.unity3d.com/kr/2019.4/Manual/system-requirements.html)|**Android 4.4 (API 19)+**, ARMv7(32bit), ARM64, **OpenGL ES 2.0 +, 3.0 +, Vulkan**, 하드웨어가 Android OS를 네이티브로 실행해야함 컨테이너 또는 에뮬레이터 내 Android는 지원xAndroid SDK(9/ API 28), Android NDK(r19)|**iOS 10+, A6/A6X SoC+, Metal, OpenGL ES 2.0, 3.0(지원 중단)**, macOS 10.12.6 및 Xcode 9.4 이상의 Mac 컴퓨터가 필요함|
+|[2020.3](https://docs.unity3d.com/kr/2020.3/Manual/system-requirements.html)|**Android 4.4 (API 19)+**, ARMv7, ARM64, **OpenGL ES 2.0 +, 3.0 +, Vulkan**, 하드웨어가 Android OS를 네이티브로 실행해야함 컨테이너 또는 에뮬레이터 내 Android는 지원x **개발용 Android SDK(10/API 29)**, Android NDK(r19)|**iOS 11+, A7 SoC Metal**, macOS 10.12.6 및 Xcode 9.4 이상의 Mac 컴퓨터가 필요함|
+|[2021.3](https://docs.unity3d.com/kr/2021.3/Manual/system-requirements.html)|<span style="color:red">**Android 5.1 (API 22)+**</span> , ARMv7(32bit), ARM64, <span style="color:red">**OpenGL ES 3.0 +, Vulkan**</span>, 하드웨어가 Android OS를 네이티브로 실행해야함, **Chrome OS 용 Android 외**에 컨테이너 또는 에뮬레이터 내 Android는 지원x, <span style="color:red">**Android SDK(10/ API 29), Android NDK(r21d)**</span>|**iOS 12+, A7 SoC+**, Metal|
 
 #### 현재 프로젝트의 세팅과 관련하여 Unity 2021.3 LTS 버전은 OpenGLES 2.0을 지원 하지 않으며, Android API, SDK 및 NDK의 버전 업과 iOS 12+ 타겟이므로 적합하지 않음
 #### 그에 반해 Unity 2020.3 LTS 버전은 설정된 조건들을 모두 수용할 수 있으므로 2020.3 LTS 버전으로 업그레이드 하는 것이 더 안정적
